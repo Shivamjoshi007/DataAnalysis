@@ -10,6 +10,24 @@ The Problem Statement
 - For that, as a member of Data Analysis team, we have to analyse the sales data of the company from different cities, and get insghts from the data to help make better business dicisions.
 - We will first start with cleaning the dataset, removing unwanted data.
   
-Data Cleaning
+Data Discovery
 ======
-  
+
+Data Analysis using SQL
+======
+
+Data Cleaning and ETL in Tableau
+======
+
+Buliding Sales Dahboard 
+======
+
+Buliding Profit Analytics Dahboard 
+======
+
+
+
+
+
+
+
