@@ -76,6 +76,14 @@ Buliding Profit Analytics Dahboard
 
 
 
+![Sales_Insights](https://github.com/user-attachments/assets/cf44426e-19e4-4788-9cde-9c56231f69cd)
+
+
+
+
+
+![Profit_Insights](https://github.com/user-attachments/assets/6522b062-f25a-4155-adfc-eade06104628)
+
 
 
 
