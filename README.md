@@ -15,10 +15,10 @@ AIM's Grid
 - The Aim's Grid is a very powerful tool and simultaneously really easy to use. 
 - It helps yourself to be clear about what to do and it helps you to explain it to others as well.
 - Missing information is visible at one glance and you can also see interdependencies in the different goal dimensions.
-  
+   
 Data Discovery
 ======
-We got the 
+We got the data od the company sales 
 
 Data Analysis using SQL
 ======
