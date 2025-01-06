@@ -18,7 +18,15 @@ AIM's Grid
    
 Data Discovery
 ======
-We got the data od the company sales 
+We got the data of the company sales deom Data Wharehose.
+The data miners extracted the MySQL file which has sales dataset, five data tables :-
+- Customer Table : It has all the information of customers, like customer code, customer name, customer type. 
+- Date table : It has date details like year, month
+- Markets table : It has columns like market code, markets name , zone 
+- Products table : it has details about the broduct like Product code and product type
+- Transactions table: all the tables are liked here as it has foreign keys like customer code, product code, market code, sales quentity , amount,  profit margin and cost price. 
+
+After getting data, it is transformed and cleaned in such a way so that data analyst can easily work on it to get insights. 
 
 Data Analysis using SQL
 ======
@@ -65,11 +73,14 @@ and transactions.market_code="Mark001";`
 
 Data Cleaning and ETL in Tableau
 ======
+- While evaluating the dataset, we noticed that few of the records in market table, have empty cells, New York and Paris does not have their zones. From the missing data we also realised that at the current state, the company is no more doing business in ether New York or Paris, so data is no more useful . So its better to get rid of such records because it may cause problem in performing data analysis.
+
+- We also noticed that in transactions table, under the sales amount field, we got a record with negative value. That does not make any sense as sales amount cannot be negative. We have get rid of the record as well. 
+
 
 
 Buliding Sales Dahboard 
 ======
-
 
 
 
